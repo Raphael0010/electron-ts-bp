@@ -1,0 +1,6 @@
+{
+    "title": "electron-ts-bp",
+    "renderer": {
+      "webpackConfig": "webpack.renderer.additions.js"
+    }
+  }
